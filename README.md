@@ -1,3 +1,4 @@
+
 # CRUD con PHP y MySQL
 
 Este proyecto es una aplicación web básica de tipo **CRUD** (*Create, Read, Update, Delete*) desarrollada con **PHP**, **MySQL** y **Bootstrap**. Está pensado como práctica para gestionar registros de una base de datos desde un navegador.
@@ -83,3 +84,9 @@ Eliminar registro: opción para borrar registros.
 🚀 Autor
 Luis Delgado
 📧 terracota-3@hotmail.com
+
+# PHP-Mysql-CRUD
+Crud para crear, modificar y eliminar tareas.
+Iniciamos el servidor y la base de datos desde xampp.
+En el navegador http://localhost/php_crud_mysql/index.php.
+
